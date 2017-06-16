@@ -1,9 +1,1 @@
-print ('hello')
-print ('test the difference between create and share')
-print ('commit and push')
-print ('just commit')
-# TODO
-print('branch')
-print ('branch test git -add')
-print('branch test not work? why')
-print('branch test not work? why2')
+print('edit example_branch, to show diff in origin')
