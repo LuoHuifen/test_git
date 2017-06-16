@@ -9,3 +9,5 @@ print('branch test not work? why')
 print('push test')
 
 print('branch not show, why?? ')
+
+print('edit master , to show diff ')
